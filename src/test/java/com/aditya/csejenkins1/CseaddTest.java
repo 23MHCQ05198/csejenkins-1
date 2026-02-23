@@ -11,7 +11,7 @@ class CseaddTest {
 		int result=c.add(2,3);
 		assertEquals(5,result);
 	}
-	@Test
+//	@Test
 //	void Csetest1() {
 //		int result=c.mul(2,3);
 //		assertEquals(5,result);
